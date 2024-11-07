@@ -180,3 +180,73 @@ Random forest: definition, key components, assumptions, mathematical formulation
 
 ## Random patches method
 
+
+# Boosting
+
+- defination
+- key idea behind boosting
+- Advantages of boosting
+- application of boosting in ML and AI
+- some popular boostig algo
+  - Adaboost
+  - Gradient boosting
+  - XGboost
+  - LightGBM
+  - Catboost
+## ADAboost
+- Defination
+- Assumptions
+- Adaboost M1 for classification
+- Adaboost R2 for regression.
+- Key features and concepts
+- How to use
+- when to use
+- pros and cons
+- Use cases
+  - Fraud detection
+  - Financial forecasting
+- Intution
+- Evaluation metrics
+  - Classification metrics
+  - Regression metrics
+  - out of bag  error
+- compleity
+- real world challenges
+- Varriants and extension
+  = Adaboost M!
+  - Adaboost M2
+  - Adaboost.R2
+  - SAMME : HAnndle maulticlass classification.
+  - Real adaboost (Uses bayesian probability)
+- Challenges and limitations
+
+## Gradient boosting machine(GBM)
+- Defination
+- Assumptions
+- Gradient descent view
+  - gradient boosting
+  - objective
+  - Gradient of the loss function
+  - Loss functions
+  - process
+  - Shrinkage and learning rate
+- Key features
+- How to use gradient boosting machines
+- when to use gradient boosting machines
+- pros and cons
+- use cases
+- intution behind gradient boosting machines
+- Evaluation
+- complexity
+- Real world challenges
+- Variants and extension
+  - SGD
+  - XGboost
+  - LightGBM
+  - catboost
+- Challenges and limitations
+  - overfiiting
+  - Computational cost
+  - sestive to noise
+  - model interpretability
+
