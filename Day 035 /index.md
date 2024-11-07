@@ -133,3 +133,50 @@ Random forest: definition, key components, assumptions, mathematical formulation
 
 ## Meta Estimator with diff base larner
 
+- Defination
+- Assumptions
+  - Diversity of base laearners
+  - independence
+  - quality of base learners
+- Mathematical formulation and explanation
+  - Ensemble model construction
+  - Aggregation of prediction
+  - Stacking framwork
+- Ley feature and concepts
+- How to use
+- Whn to use
+- pros and cons
+- use cases
+- intution
+- Evaluation metrics
+- complexity
+- real world challenges
+- varrinats and extension
+- Challenges and limitations
+
+## Random subspace method
+
+- Defination
+- Assumptions
+  - feature independence
+  - diversity among models
+  - Quality of features
+- mathematical formulation and explanation
+  - Feature subset selection
+  - Training base learners
+  - Aggregation of redictions
+- Key features and cncepts
+- how to use
+- when to use
+- Pros and cons
+- Use cases
+- example
+- intution
+- Evaluation metrics
+- Complexity
+- Real world challenges
+- Varriants an extension
+- Challenges and limitations
+
+## Random patches method
+
