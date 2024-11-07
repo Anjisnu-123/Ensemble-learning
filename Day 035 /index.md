@@ -250,3 +250,107 @@ Random forest: definition, key components, assumptions, mathematical formulation
   - sestive to noise
   - model interpretability
 
+## XGboost
+
+- defination
+- Assumptions
+- Mathematical formulation
+- Key features
+- How to use xgboost
+- when to use
+- pros and cons
+- use case of xgboost
+  - classification problems
+  - Regression problems
+  - Ranking problems
+  - customer churn prediction
+  - anomaly detection
+  - healthcare
+- Intution behind xcboost
+  - Boosting process
+  - Learning from mistakes
+  - Gradient descent
+  - Regularization
+- Evaluation metrics
+- Complexity of xgboost
+- real world chellenges with xgboost
+- Variants and extensions of xgboost
+  - lightGBM
+  - catboost
+  - xgboost with GPU support
+- challenges and limitations of xgboost
+
+## lightGBM
+
+- Definition
+- Assumptions
+  - Gradient boosting assumptions
+  - Data assumptions
+  - Hetero geneous data
+> [!NOTE]
+> GOSS,EFB
+
+- Mathematical formulation and extension
+- Key features and concepts
+  - Gradient based one sided sampling
+  - Exclusive feature bundling
+  - Histogram based training
+  - Categorical feature
+  - Efficient parallelism
+
+  - How to use lightGBM
+  - When to use lightGBM (Mainly for large dataset)
+  - pros and cons of lightGBM
+  - use case of lightGBM
+  - intution behind lightGBM
+  - Evaluation metrics
+    - for regression
+    - for classification
+  - Complexity
+  - Real world challenegs
+    - Data preprocessing
+    - Overfitting
+    - Hyperparameter tuning
+    - Memory consumptions
+  - variants and extension
+  - challeneges and limitations
+
+## Catboost
+- Defination
+- assumptions
+- mathemetical formulation
+- key features and concepts
+- How to use
+-  when to use
+-  Pros and cons
+-  Use cases
+-  intution behind catboost
+-  evaluation metrics
+-  complexity
+-  realworld challenges
+-  variants and extensions
+-  challenges and limitations
+
+## NGboost
+- Defination
+- Assumptions
+  - probabilistic prediction
+  - boosting structure
+  - independence of feature
+  - compatibility wit various loss functions
+- Mathematical formulation and explaination
+- KEy feature and concepts
+- How to use
+- when to use
+- pros and cons
+- Use cases
+- Intution
+- Evaluation metris
+  - Log-loss
+  - Brier score
+  - MSE
+  - quantile score
+- complexity
+- real world challenegss
+- Variants and extensions
+- challenegs and limitations
