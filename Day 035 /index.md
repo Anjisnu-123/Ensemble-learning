@@ -9,9 +9,10 @@
     - Ginni impurity
     - ENtropy
   - Random forest construction
+  - 
 > [!IMPORTANT]
-> for regressinon task mean of all decision trees
-> for classification taks mode of all
+> for regressinon task  we take mean of all decision trees,
+> for classification taks we take mode of all
 
 - key features and concepts
   - Feature importance measures
@@ -21,3 +22,38 @@
 - When to use random forest
 - Pros and cons
 - use cses
+- Intution
+- Evaluation metrics
+- Complexity
+- real world challenges
+- variants and extension
+- Challenges and limitations
+
+## Extra Trees
+
+> [!IMPORTANT]
+> Used when noisy data
+
+
+- Defination
+- Assumptions
+  - Independence
+  - Randomness
+  - overfitting tolerance
+- Mathematical formulation and explaination
+  - tree construction
+  - Prediction
+- Key features and concepts
+- How to use
+- when to use
+- pros and cons
+- usecase
+- intution
+- Evaluation metricss
+- Complexity
+- Real world challenges
+- Variants and extension
+- challenges and limitations
+
+## Meta Estimator with diff base larner
+
