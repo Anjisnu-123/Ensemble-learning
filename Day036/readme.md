@@ -110,3 +110,53 @@
   - Model interactions
 - variants and extension in stacking
 - limitations and best practices in stacking
+
+# Advance ensemble techniques
+- why do we need ensemble techniques
+- key advantage of advanced techniques over traditional ensembles
+- when to use adv ensemble tachniques
+  
+# cascade generelization
+- Defination
+- mechanism
+- Mathematical formulation
+- key feature and concepts
+- How to use,when to use
+- pros and cons
+- fraud detection in financial
+
+# Rotation forest
+- Defination
+- mechanism
+- Mathematical formulation
+- key feature and concepts
+- how to use
+- when to use
+- pros and cons
+
+# Deep forest
+- defination
+- mechanism
+- mathematical formulation
+- key features and concepts
+- How to use
+- when to use
+- pros and cons
+- use cases
+- evaluation metrics
+- complexity
+- real world challenges
+
+# Hierarchical mixture of experts (HME)
+- defination
+- mechanism
+- mathematical formulation
+- key features and components
+- how to use
+- when to use
+- pros and cons
+- use case
+- evaluation metrics
+- complexity real world challenges
+>[!NOTE]
+>WHen there is major o of catagorical variable for multiclass classification
