@@ -160,3 +160,43 @@
 - complexity real world challenges
 >[!NOTE]
 >WHen there is major o of catagorical variable for multiclass classification
+
+# Getting nerworks
+- defination
+- mechanism
+- mathematical formulation
+- key features and concepts
+- how to use
+- when to use
+- pros and cons
+- usecase
+- evaluation metrics
+- complexity
+- real world challenges
+
+# Negative corelation learning
+- defination
+- mechanism
+- mathematical formulation
+- key features and concepts
+- how to use
+- when to use
+- pros and cons
+- usecase
+- evaluation metrics
+- complexity
+- real world challenges
+
+# BLAST (Boosting learned aggregation of svm trees)
+- defination
+- mechanism
+- mathematical formulation
+- key features and concepts
+- how to use
+- when to use
+- pros and cons
+- usecase
+- evaluation metrics
+- complexity
+- real world challenges
+- 
