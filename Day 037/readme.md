@@ -63,3 +63,70 @@
 - mathematical formulation
 - when to use
 - Pros and cons
+
+# Online ensemble learning
+
+## Online bagging
+- Defination of online bagging
+- mechanism of online bagging
+- Mathematical formulation
+- when to use online bagging
+- pros and cons of online bagging
+
+## online boosting
+- defination
+- mechanism
+- mathematical formulation
+- when to use online boosting
+- pros and cons
+
+## Adaptive random forest
+- defination
+- mechanism
+- mathematical formulation
+- when to use online boosting
+- pros and cons
+
+
+- summary table of all 3 above
+
+# Ensemble performance metrics
+
+- Accuracy and error metrics
+  - accuracy
+  - error rate
+  - mean squared error
+  - mean absolute error
+- cross validation and out of bag score
+- ensemble specific metrics
+  - diversity
+  - stability
+  - ensemble voting score
+  - Feature importance in ensemble
+    - method of calc feature importance
+    - feature importance formulation
+    - aggregating feature importance score
+
+# Individual mdoel contribution analysis
+
+## techniques for contribution analysis
+- out of bag score cotribution
+  - purpose
+  - procedure
+  - mathematical formulation
+- Leave one out contribution
+  - overview
+  - purpose
+  - procedure
+  - mathematical formulation
+
+## Model explanation method 
+- shap
+- tree interrpeter
+- global feature importance
+
+
+# practical considerations in ensemble learning
+
+- overview
+  
