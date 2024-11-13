@@ -35,3 +35,29 @@
     - key features of boosting for time series
     - when to use boosting for time series
   - Comparison of bagging and boosting for time series
+
+# Imbalanced learning ensembles
+
+- Three variants
+ - SMOtEboost
+ - Rusboost
+ - EasyEnsemble
+
+## Smoteboost
+- Defination
+- Mechanism
+- Mechanism formulation
+  - Apply smote
+  - Train ada boost
+
+## RUSboost
+- Defination of rusboost
+- machanism of rusboost
+- Mathematical formulation
+- when to use rusboost
+- pros and cons of rusboost
+
+## Easy ensemble
+- Defination of easyensemble
+- Mechanism of easy ensemble
+- mathematical formulation
