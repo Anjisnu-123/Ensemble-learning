@@ -61,3 +61,5 @@
 - Defination of easyensemble
 - Mechanism of easy ensemble
 - mathematical formulation
+- when to use
+- Pros and cons
