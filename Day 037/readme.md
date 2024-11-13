@@ -22,4 +22,16 @@
 - why specialized ensemble methods are used?
 - Importance of spcialized ensemble method
 - Time series specific ensemble
-- 
+  - Bagging for time series
+    - defination of bagging for time series
+    - mechanism of bagging for time series
+    - Mathematical formulation
+    - Key features of bagging for time series
+    - when to use bagging for time series
+  - Boosting for time seires
+    - defination of boosting for time series
+    - machanism of boosting for time series
+    - Mathematical formulation
+    - key features of boosting for time series
+    - when to use boosting for time series
+  - Comparison of bagging and boosting for time series
